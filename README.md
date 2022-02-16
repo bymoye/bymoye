@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# 这里是迷与谜 是个~~萌新~~
+# 这里是迷与谜 
+是个~~萌新~~
 我正在使用/学习的语言：[![](https://img.shields.io/badge/python-darkseagreen.svg?&style=flat-square&logo=python&logoColor=white)](https://www.python.org/)[![](https://img.shields.io/badge/php-8892BF.svg?&style=flat-square&logo=php&logoColor=white)](https://php.net)[![](https://img.shields.io/badge/javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 
 
